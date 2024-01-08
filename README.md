@@ -28,6 +28,7 @@ Este es un sitio web diseñado para simplificar el proceso de toma de asistencia
 - Bootstrap
 - JavaScript
 - PHP
+- Laravel(Frameword)
 - MySQL
 - Un servidor web (puede usar XAMPP, WAMP u otro)
 - Navegador web
